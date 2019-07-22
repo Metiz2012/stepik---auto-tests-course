@@ -1,2 +1,2 @@
-# stepik---auto-tests-course
+# stepik
 сюда пойдут все задачки из проекта
